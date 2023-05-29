@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Bipana chapain</h1>
+<h1 align="center">Hi 👋, I'm Bipana chapain</h1>
 <h3 align="center">I am</h3>
 
 <p align="left"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw2zVJMR8hC4NX4qzw5hJRpr&ust=1684676137099000&source=images&cd=vfe&ved=2ahUKEwjLgP3mgYT_AhXkUWwGHRzBDLoQjRx6BAgAEAw" alt="chapainbipana" /> </p>
