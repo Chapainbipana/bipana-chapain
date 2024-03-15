@@ -3,9 +3,9 @@
 
 <p align="left"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw2zVJMR8hC4NX4qzw5hJRpr&ust=1684676137099000&source=images&cd=vfe&ved=2ahUKEwjLgP3mgYT_AhXkUWwGHRzBDLoQjRx6BAgAEAw" alt="chapainbipana" /> </p>
 
-- 🔭 I’m currently working on **curd project**
+- 🔭 t**
 
-- 🌱 I’m currently learning **java , database,php**
+- 🌱 **java , database,php**
 
 - 📫 How to reach me **chapai.bipana65@gmail.com**
 
